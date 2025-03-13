@@ -7,38 +7,31 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Joshua Abraham
+located_in: Hull, UK
+current_role: Student
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "MEng in Mechatronics, Robotics and AI",
   ]
-company: Soulber
+company: N/A
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
+    "Robotics",
     "Machine Learning",
+    "Cybersecurity",
     "UI/UX",
-    "Game Development",
     "DevOps",
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+   "N/A"
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Python"]
+2025 Goals: ["Create 5 Projects and learn at least 2-3 new Technologies."]
+hobbies: ["Badminton", "Cinema"]
 ```
   
 ---  
