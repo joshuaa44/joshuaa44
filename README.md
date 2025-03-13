@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.instagram.com/joshua_a4" target="_blank">
-  <img height="50" src="https://github.com/user-attachments/assets/2b05b033-bc52-4b79-a609-15352be687e7" alt="Instagram"/>
+  <img height="50" src="https://github.com/user-attachments/assets/6730e0e2-a66c-4223-97e2-43d1b0a09c31" alt="Instagram"/>
 </a>
 </p>
 
