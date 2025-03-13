@@ -6,11 +6,11 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/joshuaabrahamuoh" target="_blank">
-  <img height="50" src="https://github.com/user-attachments/assets/11249502-81be-4ecf-be00-8640ff94f42b" alt="LinkedIn"/>
+  <img height="50" src="https://github.com/user-attachments/assets/e334721f-ff0d-4a60-b602-6244d3c095f5" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/joshua_a4" target="_blank">
-  <img height="50" src="https://github.com/user-attachments/assets/6730e0e2-a66c-4223-97e2-43d1b0a09c31" alt="Instagram"/>
+  <img height="50" src="https://github.com/user-attachments/assets/e431d2af-6ce9-4261-b1d8-92846433042b" alt="Instagram"/>
 </a>
 </p>
 
