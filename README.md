@@ -5,6 +5,10 @@
 <h1 align="center"><b>Let's Connect</b></h1>
 
 <p align="center">
+<a href="mailto:joshuaabraham427@gmail.com">
+  <img height="50" src="https://github.com/user-attachments/assets/4cf7cb06-c0b8-42ef-87b1-0e844c69421e"/>
+</a>
+  
 <a href="https://www.linkedin.com/in/joshuaabrahamuoh" target="_blank">
   <img height="50" src="https://github.com/user-attachments/assets/e334721f-ff0d-4a60-b602-6244d3c095f5" alt="LinkedIn"/>
 </a>
