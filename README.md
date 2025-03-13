@@ -1,10 +1,3 @@
-
-
-<!--
-**joshuaa44/joshuaa44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Hi there 👋
 * 👂 My name is Joshua
 * 👩 Pronouns: He/Him
@@ -16,4 +9,9 @@ Here are some ideas to get you started:
 * 📫 How to reach me: ...
 * ❤️ I love 
 * ⚡ Fun fact: ...
+
+<!--
+**joshuaa44/joshuaa44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
