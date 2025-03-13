@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/joshuaabrahamuoh" target="_blank">
-  <img height="50" src="https://github.com/user-attachments/assets/ca2a1c88-2b53-4963-9422-3a354d0383ab" alt="LinkedIn"/>
+  <img height="50" src="https://github.com/user-attachments/assets/882d2d2e-44ae-432b-b8cf-646309e51a0b" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.instagram.com/joshua_a4" target="_blank">
