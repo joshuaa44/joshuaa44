@@ -36,7 +36,7 @@ hobbies: ["Badminton", "Cinema"]
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>      ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=joshuaa44)
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
