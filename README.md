@@ -45,14 +45,13 @@ hobbies: ["Badminton", "Cinema"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="visualstudio" width="50" height="50"/>        
 </p>
 
-
+<div style="margin-top: 10px;">
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=joshuaa44)
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
 </p>
-
-
-
 
 <!--
           
